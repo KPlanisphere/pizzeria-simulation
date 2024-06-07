@@ -4,6 +4,10 @@
 
 This project simulates the operations of a pizzeria, handling customer orders and the cooking process through concurrent programming. The system includes various entities such as customers, cooks, orders, and a receptionist. The main program coordinates these entities to simulate a real-life pizzeria. The simulation demonstrates a multi-threaded environment where multiple cooks can process orders concurrently.
 
+<p align= "center">
+    <img src="https://github.com/KPlanisphere/pizzeria-simulation/assets/60454942/c916de38-adc7-45db-9f76-e2b10bea88b5" style="width: 70%; height: auto;">
+</p>
+
 ### Project Structure
 
 - **main:**
@@ -120,3 +124,7 @@ Manages customer interactions and adds orders to the queue, ensuring smooth oper
 #### Menu.java
 
 Provides information on the available pizzas, their names, preparation times, and prices. This class is used by other entities to retrieve menu information.
+
+<p align= "center">
+    <img src="https://github.com/KPlanisphere/pizzeria-simulation/assets/60454942/cebf5046-aff3-4f3e-8261-92349545aa50" style="width: 70%; height: auto;">
+</p>
